@@ -38,6 +38,13 @@ export default function App() {
             <Text style={styles.infoText}>Phone: +1 234 567 890</Text>
           </View>
 
+          {/* Address */}
+        <View style={styles.infoRow}>
+          <FontAwesome5 name="heart" size={24} color="red" />
+          <Text style={styles.infoText}>Address : 999 Taylor Avenue </Text>
+        </View>
+
+
         {/* Interests */}
         <View style={styles.infoRow}>
           <FontAwesome5 name="heart" size={24} color="red" />

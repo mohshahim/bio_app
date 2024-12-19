@@ -41,7 +41,7 @@ export default function App() {
           {/* Address */}
         <View style={styles.infoRow}>
           <FontAwesome5 name="heart" size={24} color="red" />
-          <Text style={styles.infoText}>Address : 999 Taylor Avenue </Text>
+          <Text style={styles.infoText}>Address : 215 Taylor Avenue </Text>
         </View>
 
 
